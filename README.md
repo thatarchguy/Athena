@@ -1,4 +1,4 @@
-##Athena
+##Athena [![Issues in Ready](https://badge.waffle.io/thatarchguy/Athena.svg?label=ready&title=Ready)](http://waffle.io/thatarchguy/Athena) [![Build Status](https://travis-ci.org/thatarchguy/Athena.svg)](https://travis-ci.org/thatarchguy/Athena) 
 ----
 A Password Leak Management System
 
